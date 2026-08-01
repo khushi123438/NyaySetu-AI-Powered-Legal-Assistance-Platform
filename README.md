@@ -80,6 +80,7 @@ Built with the MERN stack and integrated with Ollama AI, NyaySetu provides a sec
 
 ## 📂 Project Structure
 
+```text
 NyaySetu/
 │
 ├── backend/
@@ -97,6 +98,7 @@ NyaySetu/
 │ └── package.json
 │
 └── README.md
+```
 
 ---
 
